@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vap0r
 - 👀 I’m interested in technology, mainly computers and software
-- 🌱 I’m currently learning java☕
+- 🌱 I’m currently learning C
 - 📫 How to reach me - you can't for now
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: there is no fun fact
+- ⚡ Fun fact: no fun fact
