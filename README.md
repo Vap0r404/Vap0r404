@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vap0r
 - 👀 I’m interested in technology, mainly computers and software
-- 🌱 I’m currently learning C
-- 📫 How to reach me - you can't for now
+- 🌱 I use arch btw
+- 📫 How to reach me - you can't
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: no fun fact
